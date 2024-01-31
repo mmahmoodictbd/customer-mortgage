@@ -13,7 +13,6 @@ to create, read, update, and delete (CRUD) operations for mortgages and customer
 	- [Prerequisites](#prerequisites)
 	- [Installation](#installation)
 - [API Documentation](#api-documentation)
-- [Testing](#testing)
 - [License](#license)
 
 ## Features
@@ -64,7 +63,6 @@ to create, read, update, and delete (CRUD) operations for mortgages and customer
     ```bash
     ./gradlew bootRun
     ```
-
 
 ## API Documentation
 Swagger API Documentation: http://localhost:8080/swagger-ui/index.html
